@@ -173,8 +173,11 @@ docker stack deploy --prune --resolve-image always -c traefik.yml traefik
 docker stack deploy --prune --resolve-image always -c portainer.yml portainer
 ```
 
-Acesse URL de seu Site e Crie Usuario
+### Adicione Stack abaixo, Stack > add stack
 
+![image](https://github.com/cwmkt/dockerquepasa/assets/91642837/623a6dc6-c231-4105-9a02-3070d894adb8)
+
+Lembre de Alterar os dados 
 
 </details>
 
